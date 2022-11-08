@@ -1,0 +1,45 @@
+#continer {
+  margin: auto;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  background-color: #ddd;
+  margin-top: 10%;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-weight: bold;
+  font-size: 200%;
+}
+h2 {
+  font-weight: bold;
+  font-size: 250%;
+  margin-top: 10px;
+}
+#increment-btn {
+  background-color: darkred;
+  color: white;
+  margin-top: 4px;
+  margin-bottom: 7px;
+  width: 35%;
+  height: 10%;
+  border: none;
+  font-size: 130%;
+}
+#save-el {
+  margin-top: 50spx;
+  font-size: 150%;
+}
+#save-btn {
+  background-color: rgb(16, 214, 6);
+  color: white;
+  margin-top: 4px;
+  margin-bottom: 7px;
+  width: 35%;
+  height: 10%;
+  border: none;
+  font-size: 130%;
+}
